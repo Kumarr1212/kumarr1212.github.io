@@ -9,7 +9,7 @@
         "components": [
           { "/": "*/newsletters/*", "exclude": true },
           { "/": "/demo/*" },
-          { "/": "*/image-gallery/*" },
+          { "/": "/pemo/*" },
           { "/": "*/live-coverage/*" },
           { "/": "*/audio/*" },
           { "/": "*/app-route/*" },
