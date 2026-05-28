@@ -7,7 +7,6 @@
           "9WR4HSZD3V.com.glasseffect.deeplink"
         ],
         "components": [
-          { "/": "*/newsletters/*", "exclude": true },
           { "/": "/pemo/*" },
           { "/": "*/live-coverage/*" },
           { "/": "*/audio/*" },
