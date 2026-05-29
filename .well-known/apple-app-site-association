@@ -7,7 +7,11 @@
           "9WR4HSZD3V.com.glasseffect.deeplink"
         ],
         "components": [
-          { "/":  "/nation/*"  }
+          { "/":  "/nation/*"  },
+          { "/": "/mind-games" },
+          { "/": "/digitalprinteditions" },
+          { "/": "/podcasts" },
+          { "/": "*/podcasts/*" }
        ]
       }
     ]
