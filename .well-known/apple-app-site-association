@@ -3,9 +3,14 @@
     "apps": [],
     "details": [
       {
-        "appID": "9WR4HSZD3V.com.glasseffect.deeplink",
-        "paths": [ "/nation/*" ]
+        "appIDs": [
+          "9WR4HSZD3V.com.glasseffect.deeplink"
+        ],
+        "components": [
+          { "/":  "/nation/*"  }
+       ]
       }
     ]
   }
 }
+
