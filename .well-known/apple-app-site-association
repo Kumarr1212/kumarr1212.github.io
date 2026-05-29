@@ -11,8 +11,7 @@
           { "/": "/mind-games" },
           { "/": "/digitalprinteditions" },
           { "/": "/podcasts" },
-          { "/": "*/podcast/*" },
-          { "/": "/*" }
+          { "/": "*/podcast/*" }
        ]
       }
     ]
