@@ -102,7 +102,7 @@
           { "/": "*/special-reports/defence-research/*" },
           { "/": "*/video/*" },
           { "/": "*/wealth/*" },
-          { "/": "*/culture/*" }
+          { "/": "*/culture/*" },
           { "/": "/" },
           { "/": "/mind-games" },
           { "/": "/digitalprinteditions" },
