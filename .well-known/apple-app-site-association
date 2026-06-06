@@ -107,9 +107,9 @@
           { "/": "*/special-reports/defence-research/*" },
           { "/": "*/video/*" },
           { "/": "*/wealth/*" },
-          { "/": "*/culture/*" }       ]
+          { "/": "*/culture/*" }
+        ]
       }
     ]
   }
 }
-
