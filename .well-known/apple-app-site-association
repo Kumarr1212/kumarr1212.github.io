@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "7CPYQ86QR6.com.tigerspike.ndm.theaustralian"
+          "9WR4HSZD3V.com.glasseffect.deeplink"
         ],
         "components": [
           { "/": "*/newsletters/*", "exclude": true },
