@@ -107,8 +107,7 @@
           { "/": "/mind-games" },
           { "/": "/digitalprinteditions" },
           { "/": "/podcasts" },
-          { "/": "*/podcast/*" },
-          { "/": "/*", "exclude": true }
+          { "/": "*/podcast/*" }
         ]
       }
     ]
