@@ -4,7 +4,7 @@
     "details": [
       {
         "appIDs": [
-          "9WR4HSZD3V.com.glasseffect.deeplink1"
+          "9WR4HSZD3V.com.glasseffect.deeplinks"
         ],
         "components": [
           { "/": "*/newsletters/*", "exclude": true },
