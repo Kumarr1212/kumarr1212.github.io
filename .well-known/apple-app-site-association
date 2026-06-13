@@ -105,7 +105,6 @@
           { "/": "*/culture/*" },
           { "/": "/" },
           { "/": "/mind-games" },
-          { "/": "/abc" },
           { "/": "/digitalprinteditions" },
           { "/": "/podcasts" },
           { "/": "*/podcast/*" }
