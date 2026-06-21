@@ -4,7 +4,7 @@
         "details": [  
             {  
                 "appIDs": [  
-                    "9WR4HSZD3V.com.tigerspike.ndm.theaustralian"  
+                    "9WR4HSZD3V.au.com.codesports"  
                 ],  
                 "components": [  
                     { "/": "*/newsletters/*", "exclude": true },  
