@@ -4,7 +4,7 @@
         "details": [  
             {  
                 "appIDs": [  
-                    "9WR4HSZD3V.au.com.codesports"  
+                    "7CPYQ86QR6.au.com.codesports"  
                 ],  
                 "components": [  
                     { "/": "*/newsletters/*", "exclude": true },  
